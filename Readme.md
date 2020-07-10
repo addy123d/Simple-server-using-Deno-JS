@@ -6,7 +6,7 @@ Deno is a simple, modern and secure runtime for JavaScript and TypeScript that u
 
 By simply cloning this repository.
 
-## Usage
+## Command
 
 ```typescript
  deno run --allow-net --allow-env basic_server.ts
